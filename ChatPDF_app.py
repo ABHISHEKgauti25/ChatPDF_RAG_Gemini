@@ -148,8 +148,8 @@ def user_input(user_question, conversation_history=None,):
 
 def main():
     #page layout
-    st.set_page_config("ChatPDF")
-    st.header("ChatPDF💁")
+    st.set_page_config("ReviewRush")
+    st.header("ReviewRush")
     user_question = st.chat_input("Ask a Question from the PDF Files")
     flag = 0
     #UI for uploading pdf files
