@@ -45,7 +45,7 @@ To install and set up the ChatPDF RAG Gemini project locally, follow these steps
 
 ## Usage
 
-You can use the deployed version of the application at [ReviewRush](https://reviewrush.streamlit.app/).
+You can use the deployed version of the application at [ReviewRush](https://rushreview.streamlit.app/).
 
 ## Contributing
 
