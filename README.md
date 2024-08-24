@@ -1,6 +1,6 @@
-# ChatPDF - RAG + Gemini💁
+# ReviewRush 
 
-This repository hosts the implementation of ChatPDF, designed to enable interactive querying and analysis of PDF documents using Retrieval-Augmented Generation (RAG). 
+This repository hosts the implementation of ReviewRush: A Multi-PDF query system, designed to enable interactive querying and analysis of research documents using Retrieval-Augmented Generation (RAG). 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,7 +12,7 @@ This repository hosts the implementation of ChatPDF, designed to enable interact
 
 ## Overview
 
-ChatPDF leverages advanced machine-learning techniques to provide an intuitive interface for querying PDF documents. The system combines the power of language models with retrieval mechanisms to generate accurate and contextually relevant responses based on the content of the PDFs.
+ReviewRush leverages advanced machine-learning techniques to provide an intuitive interface for querying PDF documents. The system combines the power of language models with retrieval mechanisms to generate accurate and contextually relevant responses based on the content of the PDFs(papers).
 ![Architecture](https://github.com/ABHISHEKgauti25/ChatPDF_RAG_Gemini/assets/109408129/231656ce-866d-4d88-8507-03a3d9dc68b0)
 
 
