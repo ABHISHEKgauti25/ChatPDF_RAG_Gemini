@@ -28,8 +28,8 @@ To install and set up the ChatPDF RAG Gemini project locally, follow these steps
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/ABHISHEKgauti25/ChatPDF_RAG_Gemini.git
-    cd ChatPDF_RAG_Gemini
+    git clone https://github.com/ABHISHEKgauti25/ReviewRush.git
+    cd ReviewRush
     ```
 
 2. **Create a virtual environment:**
@@ -45,7 +45,7 @@ To install and set up the ChatPDF RAG Gemini project locally, follow these steps
 
 ## Usage
 
-You can use the deployed version of the application at [ChatPDF](https://rag-chatpdf.streamlit.app/).
+You can use the deployed version of the application at [ReviewRush](https://reviewrush.streamlit.app/).
 
 ## Contributing
 
